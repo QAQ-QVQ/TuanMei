@@ -10,7 +10,7 @@
 
    基于这一思路，分成以下几个模块
 
-   ![企业微信截图_1fb44135-32a1-4b5b-b806-7fb0956cd94a](/Users/qaq/Library/Containers/com.tencent.WeWorkMac/Data/Library/Application Support/WXWork/Temp/ScreenCapture/企业微信截图_1fb44135-32a1-4b5b-b806-7fb0956cd94a.png)
+   ![整体结构](/Users/qaq/AndroidStudioProjects/TuanMei/MD/整体结构.png)
 
    **项目一共分为四层** 
 
@@ -32,7 +32,7 @@
 
       在与 `app` , `data` 同级的根目录下创建了文件夹 `buildsystem`，然后在这个文件夹下创建文件 `dependences.gradle`。目录结构如下图：
 
-      ![企业微信截图_4b79b5b6-9564-47c5-88c7-06f884c655c8](/Users/qaq/Library/Containers/com.tencent.WeWorkMac/Data/Library/Application Support/WXWork/Temp/ScreenCapture/企业微信截图_4b79b5b6-9564-47c5-88c7-06f884c655c8.png)
+      ![项目结构](/Users/qaq/AndroidStudioProjects/TuanMei/MD/结构.png)
       
    2. #### 声明创建的文件
 
