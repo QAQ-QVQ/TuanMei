@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.cachecats.meituan">
+    package="com.yu.meituan">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -12,11 +12,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar"
-        android:name=".MyApplication"
+        android:name="com.yu.meituan.MyApplication"
         >
 
-        <activity android:name=".base.BaseActivity" />
-        <activity android:name=".app.MainActivity">
+        <activity android:name="com.yu.meituan.base.BaseActivity" />
+        <activity android:name="com.yu.meituan.app.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
